@@ -1,4 +1,4 @@
-![Uploading CPE 010 – Data Structures and Algorithms CPE21S1 Angela May R. Diez.png…]()
+<img width="942" height="628" alt="CPE 010 – Data Structures and Algorithms CPE21S1 Angela May R  Diez" src="https://github.com/user-attachments/assets/003a4cbe-814c-4521-b48d-76db3ca946b1" />
 
 # CPE 010 – CPE21S1 – Data Structures and Algorithms
 
